@@ -1,0 +1,20 @@
+{
+    "name": "HexCS.Games.Tests.Editor",
+    "references": [
+        "GUID:ad04c35861a0f3d4395e5c37158c3399",
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:27619889b8ba8c24980f49ee34dbb44a",
+        "GUID:7ae16ae0f1128454cb7642b67b9ceefc"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
